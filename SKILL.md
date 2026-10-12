@@ -1,6 +1,6 @@
 ---
 name: mermaid
-description: Descriptive visualisations via inline Mermaid inside any md text. Should be used instead of the wall of a plain text while explaining complex things. Covers flowcharts, sequence/class/state/ER/C4 diagrams, mind maps, timelines, Gantt, Kanban, quadrant/pie/XY/radar/Sankey charts, packet diagrams, and more. Prefer a compact diagram when it can replace several prose steps; skip it when a table, tiny text structure, or polished standalone visual is better.
+description: "Визуализации через inline Mermaid внутри любого ответа агента или в md файлах. Покрывает flowchart'ы, sequence/class/state/ER/C4-диаграммы, mind map'ы, таймлайны, Gantt, Kanban, quadrant/pie/XY/radar/Sankey-графики, packet-диаграммы и другое. Полезно для наглядности и лучшего понимания пользователем сложных вещей (вместо или в дополнение к тексту)"
 ---
 
 # Mermaid
